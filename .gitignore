@@ -1,0 +1,3 @@
+testing_files/*
+__pycache__/*
+*.pyc
